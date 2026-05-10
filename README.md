@@ -1,5 +1,4 @@
-1. Project title:
-U-Slot Microstrip Patch Antenna Design using HFSS
+1. Project title: U-Slot Microstrip Patch Antenna Design using HFSS
 
 2. Objective:
 Designed and simulated a U-slot rectangular microstrip patch antenna for improved bandwidth and return loss characteristics.
@@ -17,7 +16,7 @@ Patch dimensions
 Return loss (S11)
 VSWR
 Gain
-Bandwidth
+U Slot Patch Antenna
 
 6. Images
 
